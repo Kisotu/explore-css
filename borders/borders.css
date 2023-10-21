@@ -1,0 +1,22 @@
+.dotted{
+    border: 2px dotted red;
+    padding: 5px;
+}
+.dashed{
+    border: 2px dashed blue;
+    padding: 5px;
+}
+.solid{
+    border: 2px solid cyan;
+    padding: 5px;
+}
+
+.double{
+    border: 10px double greenyellow;
+    padding: 5px;
+}
+.radius{
+    border: 5px solid green;
+    padding: 12px;
+    border-radius: 12px;
+}
